@@ -1,0 +1,41 @@
+{
+  "id": "ab37fef7-a06a-4d00-b4c8-f6bd01bd07d6",
+  "name": "Axkid SAS",
+  "publisher": "NAS conception GmbH",
+  "version": "1.0.0.0",
+  "brief": "Customizations for Axkid SAS",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "http://www.nasconception.de",
+  "logo": "logo/Logo.png",
+  "dependencies": [
+    {
+      "id": "83326d6d-11f8-49fd-981a-6f266a7c8d81",
+      "name": "Customizable Report Pack",
+      "publisher": "ForNAV",
+      "version": "6.0.0.0"
+    },
+    {
+      "id": "6f0293d3-86fc-4ff8-9632-54a580be6546",
+      "name": "ForNAV Core",
+      "publisher": "ForNAV",
+      "version": "6.0.0.0"
+    }
+   
+  ],
+  "screenshots": [],
+  "platform": "18.0.0.0",
+  "application": "18.0.0.0",
+  "idRanges": [
+    {
+      "from": 50100,
+      "to": 50149
+    }
+  ],
+  "contextSensitiveHelpUrl": "https://Axkid.com/help/",
+  "showMyCode": true,
+  "runtime": "7.0",
+  "features": ["TranslationFile"]
+}
